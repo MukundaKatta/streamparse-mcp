@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",
-    "@mukundakatta/streamparse": "file:../streamparse"
+    "@mukundakatta/streamparse": "^1.0.1"
   },
   "devDependencies": {
     "tsx": "^4.7.0",
