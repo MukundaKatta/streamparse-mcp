@@ -1,0 +1,21 @@
+{
+  "$schema": "https://modelcontextprotocol.io/schemas/draft/2025-09-29/server.schema.json",
+  "name": "io.github.mukundakatta/streamparse",
+  "description": "Parse partial / truncated / messy JSON from LLM tool calls, structured-output streams, and free-text. Three tools: parse_partial_json, extract_json_from_text, validate_json. Lenient mode handles trailing commas, single quotes, code fences, comments, and prose padding. Strict mode is RFC 8259 compliant.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/MukundaKatta/streamparse-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://github.com/MukundaKatta/streamparse-mcp",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@mukundakatta/streamparse-mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
