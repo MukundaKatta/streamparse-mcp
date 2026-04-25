@@ -1,7 +1,7 @@
 {
   "name": "@mukundakatta/streamparse-mcp",
-  "version": "1.0.0",
-  "mcpName": "io.github.mukundakatta/streamparse",
+  "version": "1.0.1",
+  "mcpName": "io.github.MukundaKatta/streamparse",
   "description": "MCP server exposing streamparse: parse partial / truncated JSON, extract JSON from messy LLM output, validate JSON streams. Built for Claude Desktop, Cursor, Cline, Windsurf, and Zed.",
   "type": "module",
   "bin": {
