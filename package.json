@@ -56,9 +56,5 @@
     "dist",
     "README.md",
     "LICENSE"
-  ],
-  "funding": [
-    "https://github.com/sponsors/MukundaKatta",
-    "https://agent-stack.dev"
   ]
 }
