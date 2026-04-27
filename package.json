@@ -33,6 +33,9 @@
   "author": "Mukunda Katta <mukunda.vjcs6@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/MukundaKatta/streamparse-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/MukundaKatta/streamparse-mcp/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MukundaKatta/streamparse-mcp.git"
